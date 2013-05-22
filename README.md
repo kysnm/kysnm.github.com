@@ -1,2 +1,2 @@
-tokyoincidents.github.com
+kysnm.github.com
 =========================
